@@ -17,7 +17,7 @@ func main() {
 // Define Commands Line options
 // port for ports
 // dir for directorys
-port := flag.String("p", ":8000", "HTTP Port to use (Defaults to 8000)")
+port := flag.String("p", "8000", "HTTP Port to use (Defaults to 8000)")
 
 //dir := flag.string("d", ".", "Set Directory to Serve (Defaults to current)")
 flag.Parse()
