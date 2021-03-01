@@ -6,11 +6,11 @@ Currently in version 0.1, only serves the current directory (future plans to ope
 
 ## use GWS:
 ```
-./gws -p=":<port numnber>"
+./gws -p="<port numnber>"
 ```
 e.g. 
 ```
-./gws -p=":5001"
+./gws -p="5001"
 ```
 **N.b This will default to port 8000 if not specified** 
 
