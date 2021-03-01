@@ -12,6 +12,6 @@ e.g.
 ```
 ./gws -p=":5001"
 ```
-**N.b This will default to port 5000 if not specified** 
+**N.b This will default to port 8000 if not specified** 
 
 
